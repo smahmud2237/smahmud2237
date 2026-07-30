@@ -48,13 +48,14 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=smahmud2237&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=smahmud2237&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=smahmud2237&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐍 My Contribution Snake
-
+## 🐍 My Contribution Snake 🐍
+![snake gif](https://github.com/smahmud2237/smahmud2237/blob/output/github-contribution-grid-snake-dark.svg)
+<!--
 ![Snake Animation](https://githubusercontent.com)
-
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
