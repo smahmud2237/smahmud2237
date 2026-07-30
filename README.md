@@ -60,10 +60,7 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=smahmud2237&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smahmud2237) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smahmud2237) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smahmud2237) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/smahmud2237) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smahmud2237@gmail.com) 
 
 
