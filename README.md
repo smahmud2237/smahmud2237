@@ -51,6 +51,11 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smahmud2237&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐍 My Contribution Snake
+
+![Snake Animation](https://githubusercontent.com)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
