@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=smahmud2237&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐍 My Contribution Snake 🐍
-![snake gif](https://github.com/smahmud2237/smahmud2237/blob/output/github-contribution-grid-snake-dark.svg)
+![snake svg](https://github.com/smahmud2237/smahmud2237/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 ![Snake Animation](https://githubusercontent.com)
 -->
