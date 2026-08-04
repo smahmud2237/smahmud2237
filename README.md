@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Md. Shahed Mahmud
 located_in: Dinajpur
+country: Bangladesh
 current_job: Full Stack Developer
 education:
   [
@@ -34,7 +35,6 @@ education:
     "Bachelor's in Computer Science And Engineering",
   ]
 company: BdHost Soft
-
 fields_of_interests:
   [
     "Web Development",
@@ -53,7 +53,8 @@ technical_background:
   
 currently_learning: ["Python, Django, and React Native"]
 2026 Goals: ["Create 15+ Projects and learn at least 5+ new Technologies."]
-hobbies: ["Gaming", "Traveling", "Cricket", "Batminton", "Football", "Movies", "Singing"]
+hobbies: ["Gaming", "Traveling", "Chess", "Cricket", "Batminton", "Football", "Movies", "Singing"]
+
 ```
 </div>
 
