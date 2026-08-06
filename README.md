@@ -73,7 +73,7 @@ hobbies: ["Gaming", "Traveling", "Chess", "Cricket", "Batminton", "Football", "M
 
 # 📊 GitHub ⚡ Stats ⚡:
 ![](https://github-readme-stats.shion.dev/api?username=smahmud2237&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=smahmud2237&theme=blue-green&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=smahmud2237&theme=blue-green)](https://git.io/streak-stats)<br/>    
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=smahmud2237&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
