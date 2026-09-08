@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 name: Md. Shahed Mahmud
 located_in: Dinajpur
 country: Bangladesh
-current_job: Full Stack Developer
+current_job: Full Stack Python Developer
 education:
   [
     "Self-Taught Developer and Designer",
